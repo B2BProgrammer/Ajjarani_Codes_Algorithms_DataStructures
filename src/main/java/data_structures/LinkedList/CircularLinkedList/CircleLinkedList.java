@@ -9,11 +9,6 @@ package data_structures.LinkedList.CircularLinkedList;
  */
 public class CircleLinkedList {
 	
-	
-	
-	
-	
-	
 
 	/**
 	 * @param args
